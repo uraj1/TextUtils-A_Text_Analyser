@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Screenshot (99)](https://github.com/uraj1/TextUtils-A_Text_Analyser/assets/139366493/b8323130-33e0-4b07-9b97-d4d30d13929d)
+
+![Screenshot (100)](https://github.com/uraj1/TextUtils-A_Text_Analyser/assets/139366493/95313a76-f9e2-4879-9bcf-dabf5612924e)
+
+![Screenshot (98)](https://github.com/uraj1/TextUtils-A_Text_Analyser/assets/139366493/068f64be-caff-49ff-bfbb-9003594fc948)
+
 
 ## Available Scripts
 
