@@ -49,7 +49,7 @@ function App() {
               {
                 <TextForm
                   showAlert={showAlert}
-                  heading="Enter the text to Analayse"
+                  heading="Enter the text to Analyze"
                   mode={mode}
                 />
               }
